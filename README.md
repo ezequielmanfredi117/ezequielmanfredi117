@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Bienvenido a mi perfil 👋
+Correo electronico: Ezequielmanfredi46@gmail.com  
+LinkedIn: https://www.linkedin.com/in/ezequiel-manfredi-70b95032a/
 <!--
 **ezequielmanfredi117/ezequielmanfredi117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
